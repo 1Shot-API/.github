@@ -1,9 +1,3 @@
-# 1Shot API - The automation layer for onchain money
+# 1Shot API Github Organization Profile Page
 
-<div align="center">
-  <a href="https://youtu.be/qsawSR3tOSs">
-    <img src="https://img.youtube.com/vi/qsawSR3tOSs/hqdefault.jpg" alt="Watch the onboarding tutorial">
-  </a>
-</div>
-
-[Create a free account](https://1shotapi.com) and start automating your onchain money today. 
+UPdate this repo to make changest to the 1Shot API Github org page. 
