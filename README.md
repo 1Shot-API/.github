@@ -1,3 +1,5 @@
-# 1Shot API Github Organization Profile Page
+# 1Shot API GitHub organization profile
 
-Update this repo to make changest to the 1Shot API Github org page. 
+This repository powers the public profile at [github.com/1shot-api](https://github.com/1shot-api).
+
+To change what appears on the org page, edit [`profile/README.md`](profile/README.md) and merge to the default branch.
